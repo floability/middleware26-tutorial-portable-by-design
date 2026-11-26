@@ -1,5 +1,7 @@
-site_name: Portable by Design Tutorial
-site_description: Hands-on materials for portable, reproducible scientific workflows with TaskVine, Sciunit, and Floability.
+site_name: Portable by Design · Middleware 2026
+site_description: Middleware 2026 hands-on tutorial on portable, reproducible scientific workflows with TaskVine, Sciunit, and Floability.
+site_url: https://floability.github.io/middleware26-tutorial-portable-by-design/
+repo_url: https://github.com/floability/middleware26-tutorial-portable-by-design
 
 docs_dir: docs
 

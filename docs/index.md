@@ -2,6 +2,8 @@
 
 ## Deploying Notebook-based Scientific Workflows Across HPC Clusters
 
+Middleware 2026 hands-on tutorial
+
 Scientific workflows can be difficult to reproduce and move between high-performance computing (HPC) systems. Software stacks differ, data may live in site-specific locations, and each cluster exposes its own resources and execution environment.
 
 This hands-on tutorial introduces three complementary open-source tools—**TaskVine**, **Sciunit**, and **Floability**—for addressing these challenges. You will build a distributed workflow with TaskVine, capture a reproducible execution with Sciunit, and deploy a portable notebook-based workflow as a Floability backpack.

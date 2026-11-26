@@ -1,6 +1,6 @@
-# Portable by Design Tutorial
+# Portable by Design · Middleware 2026
 
-Hands-on materials for **Portable by Design: Deploying Notebook-based Scientific Workflows across HPC Clusters**.
+Hands-on materials for the Middleware 2026 tutorial **Portable by Design: Deploying Notebook-based Scientific Workflows Across HPC Clusters**.
 
 This tutorial introduces tools and techniques for building portable, reproducible scientific workflows using **TaskVine, Sciunit, and Floability**. The repository contains the instructions and runnable exercises needed to follow the tutorial.
 
@@ -65,4 +65,4 @@ mkdocs gh-deploy
 
 The first deployment creates the `gh-pages` branch. In the GitHub repository, open **Settings → Pages**, select **Deploy from a branch**, choose the `gh-pages` branch and `/ (root)`, and click **Save**.
 
-The site will be available at [https://floability.github.io/tutorial-portable-by-design/](https://floability.github.io/tutorial-portable-by-design/). Do not edit the `gh-pages` branch directly; update the Markdown source and run `mkdocs gh-deploy` again.
+After deployment, the site will be available at [floability.github.io/middleware26-tutorial-portable-by-design](https://floability.github.io/middleware26-tutorial-portable-by-design/). To update it, edit the Markdown source and run `mkdocs gh-deploy` again.

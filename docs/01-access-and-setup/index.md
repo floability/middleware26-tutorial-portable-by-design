@@ -1,6 +1,6 @@
 # Access and Setup
 
-Choose the setup that matches how you are taking the tutorial.
+Choose how you’ll follow the Middleware 2026 tutorial.
 
 ## Attending the live tutorial
 

@@ -49,7 +49,7 @@ By the end of this tutorial, you will be able to:
 - inspect the generated software, data, workflow, and compute specifications; and
 - validate and run the generated backpack.
 
-In this tutorial, we will use a [Matrix Multiplication notebook](https://github.com/floability/tutorial-portable-by-design/blob/main/examples/audit/matrix-multiplication.ipynb).
+In this tutorial, we will use a [Matrix Multiplication notebook](https://github.com/floability/middleware26-tutorial-portable-by-design/blob/main/examples/audit/matrix-multiplication.ipynb).
 -->
 
 ---
@@ -96,7 +96,7 @@ Check its contents:
 ls -lahtr
 ```
 
-You should see the [matrix multiplication](https://github.com/floability/tutorial-portable-by-design/blob/main/examples/audit/matrix-multiplication.ipynb) notebook and a `data` directory.
+You should see the [matrix multiplication](https://github.com/floability/middleware26-tutorial-portable-by-design/blob/main/examples/audit/matrix-multiplication.ipynb) notebook and a `data` directory.
 
 Now inspect the input data:
 

@@ -18,7 +18,7 @@ If Conda is not installed, install [Miniforge](https://github.com/conda-forge/mi
 Clone the repository into the standard tutorial location:
 
 ```bash
-git clone https://github.com/floability/tutorial-portable-by-design.git ~/tutorial
+git clone https://github.com/floability/middleware26-tutorial-portable-by-design.git ~/tutorial
 cd ~/tutorial
 ```
 
